@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Matriz3x3",
+            "request": "launch",
+            "mainClass": "Matriz3x3",
+            "projectName": "MatrizInversa_2f948b74"
+        },
+        {
+            "type": "java",
+            "name": "Matriz4x4",
+            "request": "launch",
+            "mainClass": "Matriz4x4",
+            "projectName": "MatrizInversa_2f948b74"
+        },
+        {
+            "type": "java",
+            "name": "MatrizInversa",
+            "request": "launch",
+            "mainClass": "MatrizInversa",
+            "projectName": "MatrizInversa_2f948b74"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "MatrizInversa2",
+            "request": "launch",
+            "mainClass": "MatrizInversa2",
+            "projectName": "MatrizInversa_2f948b74"
+        }
+    ]
+}
